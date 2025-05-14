@@ -1,0 +1,9 @@
+streamlit==1.35.0
+yfinance==0.2.40
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+stocknews==0.1.7
+pandas-ta==0.3.14b0
+matplotlib==3.8.4
+alpha_vantage==2.3.1
